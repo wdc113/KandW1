@@ -39,7 +39,7 @@ public class Lab3Unit3Ex1 {
                 {
                     howMuchUnit2 /= 1000;
                 }
-                System.out.printf("Here's your conversion: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1, howMuchUnit2, unit2);
+                System.out.printf("Here's your conversion clown: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1, howMuchUnit2, unit2);
             }
             else
             {
@@ -60,7 +60,7 @@ public class Lab3Unit3Ex1 {
                 {
                     howMuchUnit2 /= 1000;
                 }
-                System.out.printf("Here's your conversion: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
+                System.out.printf("Here's your conversion clown: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
                         howMuchUnit2, unit2);
             }
             else
@@ -83,7 +83,7 @@ public class Lab3Unit3Ex1 {
                 {
                     howMuchUnit2 /= 1000;
                 }
-                System.out.printf("Here's your conversion: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
+                System.out.printf("Here's your conversion clown: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
                         howMuchUnit2, unit2);
             }
             else
@@ -105,7 +105,7 @@ public class Lab3Unit3Ex1 {
                 {
                     howMuchUnit2 /= 1000;
                 }
-                System.out.printf("Here's your conversion: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
+                System.out.printf("Here's your conversion clown: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
                         howMuchUnit2, unit2);
             }
             else
@@ -136,7 +136,7 @@ public class Lab3Unit3Ex1 {
                 {
                     howMuchUnit2 *= 1000;
                 }
-                System.out.printf("Here's your conversion: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
+                System.out.printf("Here's your conversion clown: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
                         howMuchUnit2, unit2);
             }
             else
@@ -167,7 +167,7 @@ public class Lab3Unit3Ex1 {
                 {
                     howMuchUnit2 *= 1000;
                 }
-                System.out.printf("Here's your conversion: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
+                System.out.printf("Here's your conversion clown: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
                         howMuchUnit2, unit2);
             }
             else
@@ -197,7 +197,7 @@ public class Lab3Unit3Ex1 {
                 {
                     howMuchUnit2 *= 10;
                 }
-                System.out.printf("Here's your conversion: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
+                System.out.printf("Here's your conversion clown: " + "%.2f %s = %.2f %s", howMuchUnit1, unit1,
                         howMuchUnit2, unit2);
             }
             else
